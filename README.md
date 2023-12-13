@@ -1,6 +1,7 @@
 # ClimaPin
 
 - Weather search
+- Weather API
 - HTML, CSS and JavaScript;
 - Project inspired by: AsmrProg.
 
